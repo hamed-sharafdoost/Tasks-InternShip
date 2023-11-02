@@ -1,0 +1,8 @@
+C:\Users\nt924\Desktop\company\Task4\VDap.Task4\Server\bin\Debug\Server.exe.config
+C:\Users\nt924\Desktop\company\Task4\VDap.Task4\Server\bin\Debug\Server.exe
+C:\Users\nt924\Desktop\company\Task4\VDap.Task4\Server\bin\Debug\Server.pdb
+C:\Users\nt924\Desktop\company\Task4\VDap.Task4\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\nt924\Desktop\company\Task4\VDap.Task4\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\nt924\Desktop\company\Task4\VDap.Task4\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\nt924\Desktop\company\Task4\VDap.Task4\Server\obj\Debug\Server.exe
+C:\Users\nt924\Desktop\company\Task4\VDap.Task4\Server\obj\Debug\Server.pdb
